@@ -1,10 +1,11 @@
 ### Hi there, I'm Citillan 👋
 
-- I’m currently working on 'Mini Metro' custom maps and the Polaris language.
-- I’m currently learning about linguistics, android, and linux more in depth.
+- I'm currently working on creating a constructed language and modding mini metro
+- I’m currently learning about linguistics, android development, modding in general, and linux more in depth.
 - I’m looking to collaborate on anything that catches my interest. (See my stars page...)
-- I’m looking for help with making my own linux distro.
+- I’m looking for help with android research
 - Ask me about anything really :)
-- How to reach me:
-Email- Citillan@protonmail.ch
-Discord- citillan mapping#8186
+
+### How to reach me:
+* Email - Citillan@protonmail.ch
+* Discord - citillan mapping#8186
