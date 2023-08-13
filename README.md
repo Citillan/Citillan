@@ -8,4 +8,4 @@
 
 ### How to reach me:
 * Email - Citillan@protonmail.ch
-* Discord - citillan mapping#8186
+* Discord - Citillan#8186
