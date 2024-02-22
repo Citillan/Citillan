@@ -15,12 +15,3 @@
 * Spanish (Native)
 * German (Literate only)
 * Latin (Intermediate)
-
-### Programming languges
-* Java (Basic)
-* Mint (Basic)
-* Javascript (Intermediate)
-* C# (Beginners)
-* Python (Basic)
-* Nix (Beginners)
-* Dart (Beginners)
