@@ -1,11 +1,26 @@
-### Hi there, I'm Citillan 👋
+### Hi there yall, I'm Citillan 👋
 
-- I'm currently working on creating a constructed language and modding mini metro
-- I’m currently learning about linguistics, android development, modding in general, and linux more in depth.
+- I'm currently working on creating on managing and creating constructed languages, graphic design, and modding for various games
+- I’m currently learning about linguistics, android, modding in general, and linux more in depth.
 - I’m looking to collaborate on anything that catches my interest. (See my stars page...)
-- I’m looking for help with android research
+- I’m looking for help with android research, modding, linguisics
 - Ask me about anything really :)
 
-### How to reach me:
+### How to reach me
 * Email - Citillan@protonmail.ch
 * Discord - Citillan#8186
+
+### Languages
+* English (Native)
+* Spanish (Native)
+* German (Literate only)
+* Latin (Intermediate)
+
+### Programming languges
+* Java (Basic)
+* Mint (Basic)
+* Javascript (Intermediate)
+* C# (Beginners)
+* Python (Basic)
+* Nix (Beginners)
+* Dart (Beginners)
