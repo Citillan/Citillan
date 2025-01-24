@@ -1,9 +1,9 @@
 ### Hi there yall, I'm Citillan 👋
 
-- I'm currently working on creating and managing constructed languages, graphic design, and modding for various games
-- I’m currently learning about linguistics, android, modding in general, and linux more in depth.
+- I'm currently working on creating and managing constructed languages, graphic design, and mods for various games
+- I’m currently learning about linguistics, android software development, modding in general (Unity), and NixOS linux more in depth.
 - I’m looking to collaborate on anything that catches my interest. (See my stars page...)
-- I’m looking for help with android research, modding, linguisics
+- I’m looking for help with attaining resources to further my interests.
 - Ask me about anything really :)
 
 ### How to reach me
