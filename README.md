@@ -13,5 +13,4 @@
 ### Languages
 * English (Native)
 * Spanish (Native)
-* German (Literate only)
 * Latin (Intermediate)
